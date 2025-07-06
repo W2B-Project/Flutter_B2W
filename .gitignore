@@ -1,0 +1,7 @@
+/Flutter/
+.dart_tool/
+.idea/
+.vscode/
+build/
+*.lock
+*.iml
